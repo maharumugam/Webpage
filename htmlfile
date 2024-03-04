@@ -1,1 +1,31 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><center><h1>About me</h1></header></center>
+    
+    <section>
+        <h3>Self intro</h3>
+         <p>I am mahalakshmi currently persuing <b>my final year bachelor</b> in <i>Electrical and electronic Engineering </i> and doing my <u> full stack development </u> course in kgm college. My short time goal is to get job at presently. my hobbies are reading audio novel.my strength are eager to learn,conflict manage,intrinstic motivator. 
+        </p>
+    </section>
+    <article>
+        <h4>quality</h4>
+        <p> time management,conflict,positive mind.</p>
+
+    </article>
+    <nav>
+        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmi0trklLOH84BwuKlI6X2Y28gP1QWoyYVw&usqp=CAU">click</a>
+        <a href="">about</a>
+    </nav>
+    <aside>
+        <h1>personal</h1>
+        <p>thanh you for visiting our website</p>
+    </aside>
+</body>
+</html>
